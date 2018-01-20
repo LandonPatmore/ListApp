@@ -9,7 +9,5 @@
 import UIKit
 
 class CustomTextFieldCell: UITableViewCell {
-    
     @IBOutlet weak var addItem: UITextField!
-    
 }
