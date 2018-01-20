@@ -1,0 +1,5 @@
+language: swift
+os: osx
+osx_image: xcode9.2
+xcode_project: ListApp.xcodeproj
+xcode_scheme: ListApp
